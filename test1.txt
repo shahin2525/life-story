@@ -11,6 +11,7 @@ I have a heaphone.
 I have a mouce.
 I have started my fulstock development job in 2021.
 I have a problem.
+Logo alignment is centered.
 =======
 >>>>>>> 5fe755b41ec9b1cbbb6b8d5bba970c35340753b5
 
